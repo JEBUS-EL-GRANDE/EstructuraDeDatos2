@@ -1,4 +1,4 @@
-# Estructura de datos 2
+# Estructura de datos 2 *(INF-318)*
 
 En esta materia se enseño la programacion de estructura de datos de una forma muy distinta a estructuras1, 
 se lo explico en lenguaje pascal, se uso la app de Dev-pascal.
